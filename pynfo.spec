@@ -5,7 +5,8 @@ Version:	0.6.2
 Release:	1
 License:	GPL
 Group:          Applications/Communications
-Source0:	http://heanet.dl.sourceforge.net/sourceforge/pynfo/%{name}-%{version}.tar.bz2
+Source0:	http://dl.sourceforge.net/sourceforge/pynfo/%{name}-%{version}.tar.bz2
+# Source0-md5:	72ed5add4573786f6b05a2dfbf23c710
 URL:		https://sourceforge.net/projects/pynfo/	
 BuildRequires:  python-Twisted
 BuildRequires:  python-Crypto
@@ -25,7 +26,7 @@ commands.
 %description -l pl
 Pynfo to po³±czenie ircowego bota informacyjnego, bota wyszukuj±cego i
 przeka¼nika sieciowego. Obs³uguje podstawowe definiowanie okoliczno¶ci
-(z zachowywaniem miêdzy uruchomieniami), przeszukiwanie Googli i
+(z zachowywaniem miêdzy uruchomieniami), przeszukiwanie Google i
 Freshmeata. Jako przeka¼nik sieciowy mo¿e ³±czyæ kana³y w wielu
 sieciach - czyli przekazywaæ komunikaty miêdzy nimi. Ma tak¿e
 interfejs do wtyczek, co pozwala u¿ytkownikom na ³atwe definiowanie
