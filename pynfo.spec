@@ -4,15 +4,15 @@ Name:		pynfo
 Version:	0.6.2
 Release:	1
 License:	GPL
-Group:          Applications/Communications
+Group:		Applications/Communications
 Source0:	http://dl.sourceforge.net/sourceforge/pynfo/%{name}-%{version}.tar.bz2
 # Source0-md5:	72ed5add4573786f6b05a2dfbf23c710
 URL:		https://sourceforge.net/projects/pynfo/
-BuildRequires:  python-Twisted
-BuildRequires:  python-Crypto
-BuildRequires:  /usr/bin/python
+BuildRequires:	python-Twisted
+BuildRequires:	python-Crypto
+BuildRequires:	/usr/bin/python
 Requires:	python-Twisted
-Requires:       python-Crypto
+Requires:	python-Crypto
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
