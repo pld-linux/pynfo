@@ -1,12 +1,12 @@
 Summary:	IRC Info/Search/Relay bot
 Summary(pl):	Ircowy bot informacyjno-wyszukuj±co-przekazuj±cy
 Name:		pynfo
-Version:	0.6.2
+Version:	0.6.3
 Release:	1
 License:	GPL
 Group:		Applications/Communications
 Source0:	http://dl.sourceforge.net/sourceforge/pynfo/%{name}-%{version}.tar.bz2
-# Source0-md5:	72ed5add4573786f6b05a2dfbf23c710
+# Source0-md5:	773c5f4fd78197c26d27256ff1a94a83
 URL:		https://sourceforge.net/projects/pynfo/
 BuildRequires:	python-Twisted
 BuildRequires:	python-Crypto
