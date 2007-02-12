@@ -1,5 +1,5 @@
 Summary:	IRC Info/Search/Relay bot
-Summary(pl):	Ircowy bot informacyjno-wyszukuj±co-przekazuj±cy
+Summary(pl.UTF-8):   Ircowy bot informacyjno-wyszukujÄ…co-przekazujÄ…cy
 Name:		pynfo
 Version:	0.6.3
 Release:	1
@@ -23,14 +23,14 @@ channels on multiple networks - that is, pass messages between them.
 It also has a plugin interface, allowing users to easily define new
 commands.
 
-%description -l pl
-Pynfo to po³±czenie ircowego bota informacyjnego, bota wyszukuj±cego i
-przeka¼nika sieciowego. Obs³uguje podstawowe definiowanie okoliczno¶ci
-(z zachowywaniem miêdzy uruchomieniami), przeszukiwanie Google i
-Freshmeata. Jako przeka¼nik sieciowy mo¿e ³±czyæ kana³y w wielu
-sieciach - czyli przekazywaæ komunikaty miêdzy nimi. Ma tak¿e
-interfejs do wtyczek, co pozwala u¿ytkownikom na ³atwe definiowanie
-nowych poleceñ.
+%description -l pl.UTF-8
+Pynfo to poÅ‚Ä…czenie ircowego bota informacyjnego, bota wyszukujÄ…cego i
+przekaÅºnika sieciowego. ObsÅ‚uguje podstawowe definiowanie okolicznoÅ›ci
+(z zachowywaniem miÄ™dzy uruchomieniami), przeszukiwanie Google i
+Freshmeata. Jako przekaÅºnik sieciowy moÅ¼e Å‚Ä…czyÄ‡ kanaÅ‚y w wielu
+sieciach - czyli przekazywaÄ‡ komunikaty miÄ™dzy nimi. Ma takÅ¼e
+interfejs do wtyczek, co pozwala uÅ¼ytkownikom na Å‚atwe definiowanie
+nowych poleceÅ„.
 
 %prep
 %setup -q
