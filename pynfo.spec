@@ -1,5 +1,5 @@
 Summary:	IRC Info/Search/Relay bot
-Summary(pl.UTF-8):   Ircowy bot informacyjno-wyszukująco-przekazujący
+Summary(pl.UTF-8):	Ircowy bot informacyjno-wyszukująco-przekazujący
 Name:		pynfo
 Version:	0.6.3
 Release:	1
